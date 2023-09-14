@@ -1,4 +1,3 @@
 variable "cidr" {}
 variable"subnets" {}
-variable "default_vpc_id" {}
-variable "vpc_id" {}
+#variable "default_vpc_id" {}
